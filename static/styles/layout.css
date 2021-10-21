@@ -1,0 +1,14 @@
+#dashboard {
+	padding: 5px;
+	text-align: right;
+	color: rgb(20, 20, 20);
+}
+
+#dashboard a {
+	text-decoration: none;
+	color: inherit;
+}
+
+#dashboard a:hover {
+	color: rgb(230, 230, 230);;
+}

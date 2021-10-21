@@ -1,0 +1,22 @@
+
+#form {
+	padding-top: 5%;
+}
+
+#usernameList {
+	font-size: 20px;
+	color: black;
+	width: 250px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+input {
+	margin: 2px;
+	width: 200px;
+}
+
+#testing {
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
